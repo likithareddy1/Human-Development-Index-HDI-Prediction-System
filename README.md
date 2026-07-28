@@ -185,6 +185,11 @@ pip install -r requirements.txt
 
 ---
 
+## Live Demo
+
+Local Deployment:
+http://127.0.0.1:5000/
+
 ## 👩‍💻 Author
 
 **Likitha Kalluru**
